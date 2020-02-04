@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # INinja (otabek-sadiridinov)
 
 Impeccable-Ninja official website, channel and brand by Otabek Sadiridinov
@@ -24,4 +23,3 @@ See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 =======
 # Otabek-Sadiridinov
 My Website Project
->>>>>>> cb780c1b353f5b51e99180d9156efba57096ea74
