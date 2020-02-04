@@ -1,0 +1,80 @@
+@import url(https://fonts.googleapis.com/css?family=Hepta+Slab:100,200,300,400,500,600,700,800,900&display=swap);
+.hepta {
+	font-family: 'Hepta Slab', arial;
+}
+/* app global css */
+:root {
+	--primary: #124f5c;
+    --secondary: #f1c232;
+    --accent: #511561;
+    --dark: #030000;
+    --positive: #10e642;
+    --negative: #d6brow1c1c;
+    --info: #10d4e6;
+    --warning: #1b4052;
+/* Not used yet */
+/*     --q-color-accent: #0d3942;
+    --q-color-positive: #21ba45;
+    --q-color-negative: #c10015;
+    --q-color-info: #31ccec;
+    --q-color-warning: #f2c037; */
+}
+
+.bg-primary {
+	background-color:  var(--primary)!important;
+}
+.text-primary {
+	color:  var(--primary)!important;
+}
+
+
+.bg-secondary {
+	background-color:  var(--secondary)!important;
+}
+.text-secondary {
+	color:  var(--secondary)!important;
+}
+
+.bg-accent {
+	background-color:  var(--accent)!important;
+}
+.text-accent {
+	color:  var(--accent)!important;
+}
+
+.bg-dark {
+	background-color:  var(--dark)!important;
+}
+.text-dark {
+	color:  var(--dark)!important;
+}
+
+.bg-positive {
+	background-color:  var(--positive)!important;
+}
+.text-positive {
+	color:  var(--positive)!important;
+}
+
+
+.bg-negative {
+	background-color:  var(--negative)!important;
+}
+.text-negative {
+	color:  var(--negative)!important;
+}
+
+.bg-info {
+	background-color:  var(--info)!important;
+}
+.text-info {
+	color:  var(--info)!important;
+}
+
+
+.bg-warning {
+	background-color:  var(--warning)!important;
+}
+.text-warning {
+	color:  var(--warning)!important;
+}
